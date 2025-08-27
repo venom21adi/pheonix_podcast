@@ -18,8 +18,16 @@
       <itunes:name>Aditya</itunes:name>
       <itunes:email>pheonixlearn@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
 
+    <item>
+      <itunes:image href="https://archive.org/download/show-art/Show_Art.png"/>
+      <title>&quot;Episode 01: Echoes of Innovation: Birmingham's Industrial Boom and the Birth of Cadbury&quot;</title>
+      <enclosure url="https://ia902907.us.archive.org/26/items/intro-with-music-male-use/Intro_with_music_Male_use.mp3" length="248773076" type="audio/mp3"/>
+      <description>Dive into the heart of the Industrial Revolution with our latest episode, where we transport you to mid-Victorian Birmingham—a hub of relentless growth and innovation. Picture walking through the smoke-engulfed streets of this bustling metropolis, where towering chimneys dominate the skyline, and the clattering sounds of machinery echo in the air. This episode explores how Birmingham, once a modest market town, exploded into a sprawling industrial giant, home to over 200,000 people by 1850. Discover the products that were forged here, from intricate jewelry to robust machinery, and experience the dual nature of progress marked by both technological advancement and challenging living conditions. Amidst the industrial chaos, uncover the story of a remarkable venture on Bridge Street—the birthplace of the Cadbury cocoa works. Learn how the Cadbury brothers turned their family's faltering business into a beloved global brand, all starting in a backstreet factory infused with the rich aroma of cocoa. Join us as we delve into these fascinating tales of transformation and triumph. Don’t miss this episode! Tune in to feel the pulse of industrial-age Birmingham and savor the sweet success of Cadbury’s revolutionary journey.</description>
+      <guid>b8c3b02b-3117-5c96-a419-2f0b60a3fb4e</guid>
+      <pubDate>Fri, 22 Aug 2025 05:30:00 GMT</pubDate>  
+    </item>
+    <item>
       <itunes:image href="https://dn721505.ca.archive.org/0/items/Episode_1-1755491861/Episode_1.png"/>
       <title>&quot;Episode 01: Echoes of Innovation: Birmingham's Industrial Boom and the Birth of Cadbury&quot;</title>
       <enclosure url="https://ia601003.us.archive.org/25/items/Episode_01-1755491902/Episode_01.mp3" length="248773076" type="audio/mpeg"/>
@@ -47,7 +55,7 @@
         <title>"Episode 04: From Despair to Dessert: How Two Brothers' Struggle Changed Snacking Forever"</title>
         <description>In this episode of "Origins of Taste," we dive into the gripping story of Richard and George, two brothers who, during the 1860s, found themselves on the precipice of financial disaster. With a dwindling inheritance and the shadow of bankruptcy looming, they made sacrifices that turned their everyday lives into a testament to resilience and dedication. From selling newspapers and skipping meals, to overhauling their business model right from the factory floor where they dined on mere bread and butter, their journey is not just about saving a business—it's about the passion and innovation born from necessity.,Join us as we explore how these adversities led to a profound transformation in their approach to business and life. Discover the intense "martyrdom of the senses" they endured, the strategic shifts they implemented, and how even in the sparsest times, every small victory brought immense joy and renewed determination.,Delve into an inspiring tale of survival and innovation that's bound to motivate anyone facing their own hurdles. Whether you're a history buff, a budding entrepreneur, or just love a good comeback story, this episode is for you.,Don’t miss this episode of "Origins of Taste"—tune in now to get inspired!</description>
         <itunes:image href="https://archive.org/download/funlearn-700f9dc1ac7d43b1901d89db8472c666/Episode_01.png"/>
-        <enclosure url="https://archive.org/download/funlearn-04d28bdd075b44f2845e47c574ae9499/Episode_01.mp3" length="8235301" type="audio/mp3"/>
+        <enclosure url="https://archive.org/download/funlearn-04d28bdd075b44f2845e47c574ae9499/Episode_01.mp3" length="8235301" type="audio/c"/>
         <guid>9f2b7b8e-f434-4218-b8bf-cbee320a8a76</guid>
         <pubDate>2025-08-29T05:30:00Z</pubDate>
     </item>
@@ -69,6 +77,7 @@
     </item>
   </channel>
 </rss>
+
 
 
 
