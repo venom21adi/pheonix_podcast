@@ -49,7 +49,7 @@
         <itunes:image href="https://archive.org/download/funlearn-700f9dc1ac7d43b1901d89db8472c666/Episode_01.png"/>
         <enclosure url="https://archive.org/download/funlearn-04d28bdd075b44f2845e47c574ae9499/Episode_01.mp3" length="8235301" type="audio/mp3"/>
         <guid>9f2b7b8e-f434-4218-b8bf-cbee320a8a76</guid>
-        <pub_date>2025-08-29T05:30:00Z</pub_date>
+        <pubDate>2025-08-29T05:30:00Z</pubDate>
     </item>
     <item>
           <title>"Episode 05: Exploring the Cocoa Plant: Nature's Marvel in Victorian England's Gardens"</title>
@@ -57,7 +57,7 @@
           <itunes:image href="https://archive.org/download/funlearn-5607106bd17b414f81d9957df2cbf2f5/Episode_02.png"/>
           <enclosure url="https://archive.org/download/funlearn-86cdfa5680d64d76b9443a03d3de24dc/Episode_02.mp3" length="8929532" type="audio/mp3"/>
           <guid>278b7581-c20a-430f-922e-7ce4290f059d</guid>
-          <pub_date>2025-08-30T05:30:00Z</pub_date>
+          <pubDate>2025-08-30T05:30:00Z</pubDate>
     </item>
     <item>
           <title>"Episode 06: From Loathed to Loved: The Wild Journey of Chocolate in Europe"</title>
@@ -65,10 +65,11 @@
           <itunes:image href="https://archive.org/download/funlearn-def035bccd5342e78988036f39a8cfd1/Episode_03.png"/>
           <enclosure url="https://archive.org/download/funlearn-7877e78495844638b7ef6585a8e6d2f6/Episode_03.mp3" length="8308862" type="audio/mp3"/>
           <guid>0603e619-24a3-4506-953d-4ea4c6dd63ad</guid>
-          <pub_date>2025-08-31T05:30:00Z</pub_date>
+          <pubDate>2025-08-31T05:30:00Z</pubDate>
     </item>
   </channel>
 </rss>
+
 
 
 
