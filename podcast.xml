@@ -3,7 +3,7 @@
   
   <channel>
     <title>FunLearn Talks</title>
-    <description>A fun way to learn interesting topics.</description>
+    <description>A fun way to learn about business, technology and history.</description>
     <itunes:explicit>no</itunes:explicit>    
     <language>en-us</language>
     <itunes:image href="https://archive.org/download/show-art/Show_Art.png"/>     
@@ -45,6 +45,7 @@
     </item>
   </channel>
 </rss>
+
 
 
 
