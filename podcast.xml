@@ -3,9 +3,15 @@
   
   <channel>
     <title>FunLearn Talks</title>
-    <description>A fun way to learn about business, technology and history.</description>
+    <description>
+      Tired of boring history lessons? 
+      Get ready for a podcast that connects the dots between boardroom battles, code breakthroughs, and world-changing events! 
+      FunLearn talks is where business, technology, and history crash into each other—in the best way possible.
+      We dive into the dramatic stories you weren't taught in school: the pirate radio DJs who inspired Silicon Valley, the surprising link between ancient looms and modern computers, and the marketing blunders that sunk billion-dollar companies. 
+      We make learning fun and relevant.
+      Join us as we reboot the past to understand the money and machines that shape our lives.
+    </description>
     <itunes:explicit>no</itunes:explicit> 
-    <description>Join us as we explore the hidden history of everyday objects and the stories behind them.</description>
     <language>en-us</language>
     <itunes:image href="https://archive.org/download/show-art/Show_Art.png"/>     
     <image>
@@ -78,6 +84,7 @@
     </item>
   </channel>
 </rss>
+
 
 
 
