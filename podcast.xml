@@ -20,6 +20,8 @@
       <link>https://venom21adi.github.io/pheonix_podcast/index.xml</link>
     </image>
     <itunes:category text="History"/>
+    <itunes:category text="Business"/>
+    <itunes:category text="Technology"/>
     <itunes:author>Aditya</itunes:author>
     <itunes:owner>      
       <itunes:name>Aditya</itunes:name>
@@ -84,6 +86,7 @@
     </item>
   </channel>
 </rss>
+
 
 
 
