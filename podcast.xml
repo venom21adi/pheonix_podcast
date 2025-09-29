@@ -22,9 +22,9 @@
     <itunes:category text="History"/>
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
-    <itunes:author>Aditya</itunes:author>
+    <itunes:author>Phoenix Learn Media</itunes:author>
     <itunes:owner>      
-      <itunes:name>Aditya</itunes:name>
+      <itunes:name>Pheonix Learn Media</itunes:name>
       <itunes:email>pheonixlearn@gmail.com</itunes:email>
     </itunes:owner>
 
@@ -38,7 +38,7 @@
     </item>
     <item>
       <itunes:image href="https://dn721505.ca.archive.org/0/items/Episode_1-1755491861/Episode_1.png"/>
-      <title>Untold History: Story of Cadbury chocolate | Episode 01  </title>
+      <title>Story of Cadbury chocolate</title>
       <enclosure url="https://ia601003.us.archive.org/25/items/Episode_01-1755491902/Episode_01.mp3" length="248773076" type="audio/mpeg"/>
       <description>Dive into the heart of the Industrial Revolution with our latest episode, where we transport you to mid-Victorian Birmingham—a hub of relentless growth and innovation. Picture walking through the smoke-engulfed streets of this bustling metropolis, where towering chimneys dominate the skyline, and the clattering sounds of machinery echo in the air. This episode explores how Birmingham, once a modest market town, exploded into a sprawling industrial giant, home to over 200,000 people by 1850. Discover the products that were forged here, from intricate jewelry to robust machinery, and experience the dual nature of progress marked by both technological advancement and challenging living conditions. Amidst the industrial chaos, uncover the story of a remarkable venture on Bridge Street—the birthplace of the Cadbury cocoa works. Learn how the Cadbury brothers turned their family's faltering business into a beloved global brand, all starting in a backstreet factory infused with the rich aroma of cocoa. Join us as we delve into these fascinating tales of transformation and triumph. Don’t miss this episode! Tune in to feel the pulse of industrial-age Birmingham and savor the sweet success of Cadbury’s revolutionary journey.</description>
       <guid>b8c3b02b-3117-5c96-a419-2f0b60a3fb4e</guid>
@@ -46,7 +46,7 @@
     </item>
     <item>
       <itunes:image href="https://ia800905.us.archive.org/25/items/Episode_2-1755491985/Episode_2.png"/>
-      <title>Untold History : Cadbury's Founder Secret | Episode 02 </title>
+      <title>Cadbury's Founder Secret</title>
       <enclosure url="https://dn720700.ca.archive.org/0/items/Episode_02-1755492027/Episode_02.mp3" length="259336628" type="audio/wav"/>
       <description>Join us on a captivating journey through the life of Richard Tapper, an ambitious draper whose resilience and innovation navigated the highs and lows of the 18th century. In this episode, we delve into Richard's early days as an apprentice in Kent during the American War of Independence, through the downturn that followed the war's end, to his ultimate rise in the bustling markets of London and Birmingham. Discover how Richard’s determination and strategic moves not only propelled him into mingling with the elite but also led him to establish a thriving business amidst the backdrop of the French Revolution and changing European fashions. Witness the evolution of an entrepreneur who transformed challenges into stepping stones, influencing fashion trends and business norms along the way! We'll explore key lessons from Richard's journey that are still relevant to today’s entrepreneurs and enthusiasts of history and fashion. Get ready to be inspired by a tale of perseverance, vision, and success. Don’t miss this episode of historical escapades and entrepreneurial spirit—tune in now!</description>
       <guid>d8994fd0-8f78-5b68-8e5a-8ba8a7039a67</guid>
@@ -54,14 +54,14 @@
     </item>
     <item>
       <itunes:image href="https://dn721606.ca.archive.org/0/items/Episode_3-1755449086/Episode_3.png"/>
-      <title>Untold History: Cadbury's Royal Secret | Episode 03 </title>
+      <title>Cadbury's Royal Secret</title>
       <enclosure url="https://ia801004.us.archive.org/14/items/Episode_03-1755449122/Episode_03.mp3" length="260655380" type="audio/wav"/>
       <description>In this captivating episode of our podcast, journey back to the mid-19th century to discover the remarkable story of the Cadbury family—a name synonymous with chocolate, but with a tale that transcends mere confectionery. Dive into the lively narrative of how this iconic household blended entrepreneurship with cultural revolution during an era of extraordinary transformation. We’ll explore the bustling cocoa trade under the innovative leadership of John Cadbury, the challenges and triumphs faced by his descendants, and the visionary creation of a model village that epitomized their commitment to worker welfare. Through steam engines, railway expansions, and youthful escapades like Richard Cadbury’s dawn ice-skating sessions, we unfold how personal passions and societal shifts intertwined to mold a legacy that continues to enchant us today. Unravel how the Cadburys not only navigated but shaped the world’s shifting tides—from industrial progress to royal endorsements. This episode isn't just about chocolate; it’s about the spirit and dreams that flavored the era. Craving a blend of history, inspiration, and allure? Don’t miss this episode! Tune in now to steep yourself in the rich, transforming aromas of the past with ‘The Cadbury Chronicles’.</description>
       <guid>4f5e0839-04e1-59ff-959f-eba5c0a0c095</guid>
       <pubDate>Sun, 24 Aug 2025 05:30:00 GMT</pubDate>
     </item>
     <item>
-        <title>Untold History: Cadbury Chocolate's rise | Episode 04</title>
+        <title>Cadbury Chocolate's rise</title>
         <description>In this episode of "Origins of Taste," we dive into the gripping story of Richard and George, two brothers who, during the 1860s, found themselves on the precipice of financial disaster. With a dwindling inheritance and the shadow of bankruptcy looming, they made sacrifices that turned their everyday lives into a testament to resilience and dedication. From selling newspapers and skipping meals, to overhauling their business model right from the factory floor where they dined on mere bread and butter, their journey is not just about saving a business—it's about the passion and innovation born from necessity.,Join us as we explore how these adversities led to a profound transformation in their approach to business and life. Discover the intense "martyrdom of the senses" they endured, the strategic shifts they implemented, and how even in the sparsest times, every small victory brought immense joy and renewed determination.,Delve into an inspiring tale of survival and innovation that's bound to motivate anyone facing their own hurdles. Whether you're a history buff, a budding entrepreneur, or just love a good comeback story, this episode is for you.,Don’t miss this episode of "Origins of Taste"—tune in now to get inspired!</description>
         <itunes:image href="https://archive.org/download/funlearn-700f9dc1ac7d43b1901d89db8472c666/Episode_01.png"/>
         <enclosure url="https://archive.org/download/funlearn-04d28bdd075b44f2845e47c574ae9499/Episode_01.mp3" length="8235301" type="audio/c"/>
@@ -69,7 +69,7 @@
         <pubDate>2025-08-29T05:30:00Z</pubDate>
     </item>
     <item>
-          <title>Untold History: Cadbury Chocolate's Secret Ingredient | Episode 05</title>
+          <title>Cadbury Chocolate's Secret Ingredient</title>
           <description>Step into the lush, vibrant world of cocoa in our latest podcast episode, "The Enchanting Realm of Cocoa: History, Cultivation, and Victorian Fascination." Join us as we explore the rich tapestry of cocoa's past, delving into its status as the 'food of the Gods' and the Victorian era's captivation with this exotic plant. ,Through the stately glasshouses of Kew Gardens, we'll uncover how Victorian botanists unraveled the mysteries of Theobroma cacao and how its cultivation fired the imagination of an era obsessed with the natural world. Imagine cocoa plantations described as tropical paradises, aglow with thousands of golden lamps and bursts of crimson flowers, painting a scene straight out of a grand natural temple.,Our journey doesn't end with history; we'll also visualize the unique biology of the cocoa plant, from its bright green leaves to the unusual way it bears fruit directly off its trunk.,Curious to know more about the plant behind your favorite chocolate delights? Tune in now to "The Enchanting Realm of Cocoa" and indulge in a story as rich as the cocoa itself. Don’t miss this episode!</description>
           <itunes:image href="https://archive.org/download/funlearn-5607106bd17b414f81d9957df2cbf2f5/Episode_02.png"/>
           <enclosure url="https://archive.org/download/funlearn-86cdfa5680d64d76b9443a03d3de24dc/Episode_02.mp3" length="8929532" type="audio/mp3"/>
@@ -77,7 +77,7 @@
           <pubDate>2025-08-30T05:30:00Z</pubDate>
     </item>
     <item>
-          <title>Untold History: How Cadbury Conquered the Chocolate World | Episode 06</title>
+          <title>How Cadbury Conquered the Chocolate World</title>
           <description>Dive into the rich, swirling history of chocolate on this week’s episode of “Time Capsule Tastings!” Join us as we travel back to 17th century Spain where chocolate first emerged in Europe not with a cheer, but with skeptical frowns. From its humble beginnings as a “loathsome” concoction criticized by Spanish writers to its accidental encounter with angry English and Dutch pirates, we'll explore how this beloved bean failed to impress its initial tasters.,Witness the transformation of this bitter bean into a sought-after luxury in the cozy English coffeehouses of the mid-1600s, and hear how luminaries like Samuel Pepys became enchanted after just a sip. We'll track the evolution of chocolate as it seeped into aristocratic European society, ending up in everything from savory meat dishes to divine sorbets.,Chocolate has journeyed from a misunderstood import to a household staple, and its story is as deliciously complex as the flavors we adore today. Curious to learn more about this fascinating beverage turned beloved treat? Tune in now to savor the tale of chocolate’s decadent rise to fame!</description>
           <itunes:image href="https://archive.org/download/funlearn-def035bccd5342e78988036f39a8cfd1/Episode_03.png"/>
           <enclosure url="https://archive.org/download/funlearn-7877e78495844638b7ef6585a8e6d2f6/Episode_03.mp3" length="8308862" type="audio/mp3"/>
@@ -85,7 +85,7 @@
           <pubDate>2025-08-31T05:30:00Z</pubDate>
     </item>
     <item>
-        <title>Untold History: French Revolution and France | Episode 01</title>
+        <title>French Revolution and France</title>
         <description>
           Ever wonder why France, the most powerful nation in Europe, plunged into a bloody revolution at the height of its cultural prowess? 
           This episode delves deep into the heart of Paris amid the turbulence leading up to the French Revolution. Join us as we explore the economic, social, and political threads that wove the fabric of one of history's most significant uprisingsDiscover how an agricultural crisis and a severe recession set the stage for widespread unrest.
@@ -99,7 +99,7 @@
         <pubDate>2025-09-12T05:30:00Z</pubDate>
   </item>
 <item>
-      <title>Untold History: Faith vs State in the French Revolution | Episode 02 </title>
+      <title>Faith vs State in the French Revolution</title>
       <description> 
        What happens when a nation’s economy collapses under the weight of its own revolutionary aspirations? Witness the catastrophic trials of the French Revolution through the eyes of those who lived it.
        In this vivid episode, explore the gripping tension and dire consequences of the French Revolution's economic and political gambits. Discover how the introduction of the assignat, a radical new currency, spiraled into economic chaos and societal upheaval.
@@ -114,7 +114,7 @@
       <pubDate>2025-09-13T05:30:00Z</pubDate>
 </item>
 <item>
-      <title>Untold History: French Revolution and Napoleon's Rise | Episode 03 </title>
+      <title>French Revolution and Napoleon's Rise</title>
       <description>
         Did you know that the political structure formed in France in 1795 was designed to stabilize but instead spiraled into chaos? 
         Journey back to the French Revolution in our latest podcast episode, where we explore the tense and tumultuous times under the 1795 Constitution. Discover how attempts at political balance led to unforeseeable outcomes and set the stage for one of history’s most iconic figures to rise.
@@ -177,6 +177,7 @@
     </item>
   </channel>
 </rss>
+
 
 
 
