@@ -13,7 +13,7 @@
     </description>
     <itunes:explicit>no</itunes:explicit> 
     <language>en-us</language>
-    <itunes:image href="https://archive.org/download/show-art/Show_Art.png"/>     
+    <itunes:image href="https://archive.org/details/untitled-design_20251012"/>     
     <image>
       <url>https://archive.org/download/fun-learn/fun-learn.png</url>
       <title>FunLearn Talks</title>
@@ -225,6 +225,7 @@
     </item>
   </channel>
 </rss>
+
 
 
 
