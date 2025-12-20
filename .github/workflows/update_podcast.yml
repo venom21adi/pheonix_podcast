@@ -7,9 +7,33 @@ on:
     paths:
       - podcast_feed.xml
 
+permissions:
+  contents: write   # REQUIRED to push commits
+
 jobs:
-  test-trigger:
+  update-podcast:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Confirm workflow triggered
-        run: echo "Workflow triggered because podcast_feed.xml changed"
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update podcast.xml from podcast_feed.xml
+        run: |
+          cp podcast_feed.xml podcast.xml
+
+      - name: Commit and push podcast.xml
+        run: |
+          if git diff --quiet podcast.xml; then
+            echo "No change in podcast.xml"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add podcast.xml
+          git commit -m "Auto-update podcast.xml from podcast_feed.xml"
+          git push
