@@ -1,1 +1,15 @@
 name: Update podcast.xml workflow
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - podcast_feed.xml
+
+jobs:
+  test-trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Confirm workflow triggered
+        run: echo "Workflow triggered because podcast_feed.xml changed"
