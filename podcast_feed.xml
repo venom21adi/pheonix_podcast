@@ -3,6 +3,8 @@
   <channel>
     <title>FunLearn Talks</title>
     <description>A fun way to learn interesting topics.</description>
+    <itunes:author>Aditya</itunes:author>
+    <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
     <language>en-us</language>
     <itunes:category text="History"/>
